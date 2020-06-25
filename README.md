@@ -20,22 +20,24 @@ A collection of awesome Jekyll editors
 
 ### Open Source
 
-- **Jekyll Admin** ★565 (github: [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin)) by Ben Balter, Mert Kahyaoğlu et al -- a jekyll plugin offering a classic CMS-style "visual" editor in your browser to write posts and manage jekyll sites
+- **Netlify CMS** ★9,246  (github: [netlify/netlify-cms](https://github.com/netlify/netlify-cms)) -- a content management system (CMS) for static site generators
 
-- **Prose** ★3 418 (web: [prose.io](http://prose.io), github: [prose/prose](https://github.com/prose/prose)) -- a content editor for GitHub designed for managing (web)sites
+- **Prose** ★4,225 (web: [prose.io](http://prose.io), github: [prose/prose](https://github.com/prose/prose)) -- a content editor for GitHub designed for managing (web)sites
 
-- **Meet Hyde** ★59 (github: [MeetHyde/MeetHyde](https://github.com/MeetHyde/MeetHyde)) -- provides a simple-to-use web interface to manage content in Jekyll-powered GitHub Pages; (work-in-progess)
+- **Jekyll Admin** ★2,058  (github: [jekyll/jekyll-admin](https://github.com/jekyll/jekyll-admin)) by Ben Balter, Mert Kahyaoğlu et al -- a jekyll plugin offering a classic CMS-style "visual" editor in your browser to write posts and manage jekyll sites
 
+- **Federalist** ★210 (web: [federalist.18f.gov](https://federalist.18f.gov), github: [18F/federalist](https://github.com/18F/federalist)) by 18F (a US government agency) -- a content management system (CMS) for publishing static government websites; automates common tasks for integrating GitHub, Prose, and Amazon Web Services offering a simple way for developers to launch new websites or more easily manage existing ones
+
+<!--
+discontinued:
 - **Utterson** ★153 (github: [gabriel-john/utterson](https://github.com/gabriel-john/utterson)) -- web backend written in ruby, for a more user friendly management of jekyll sites; (work-in-progess)
+-->
 
-- **Little Jekyll** ★23 (github: [L-A/Little-Jekyll](https://github.com/L-A/Little-Jekyll)) by Louis-André Labadie -- a desktop app to manage Jekyll websites, overview and control your Jekyll processes
+- **MrHyde** ★75 (play store: [org.faudroids.mrhyde](https://play.google.com/store/apps/details?id=org.faudroids.mrhyde), github: [FauDroids/MrHyde](https://github.com/FauDroids/MrHyde)) -- an Android app that can add and edit posts, drafts and files that can be previewed
 
-- **Content Editor** ★25 (github: [mushishi78/content-editor](https://github.com/mushishi78/content-editor)) by Max White -- a web interface for editing documents on GitHub
+- **Little Jekyll** ★40  (github: [L-A/Little-Jekyll](https://github.com/L-A/Little-Jekyll)) by Louis-André Labadie -- a desktop app to manage Jekyll websites, overview and control your Jekyll processes
 
-- **Netlify CMS** ★550 (github: [netlify/netlify-cms](https://github.com/netlify/netlify-cms)) -- a content management system (CMS) for static site generators
-
-- **Federalist** ★19 (web: [federalist.18f.gov](https://federalist.18f.gov), github: [18F/federalist](https://github.com/18F/federalist)) by 18F (a US government agency) -- a content management system (CMS) for publishing static government websites; automates common tasks for integrating GitHub, Prose, and Amazon Web Services offering a simple way for developers to launch new websites or more easily manage existing ones
-
+- **Content Editor** ★39 (github: [mushishi78/content-editor](https://github.com/mushishi78/content-editor)) by Max White -- a web interface for editing documents on GitHub
 
 ### Commerical / For Pay
 
@@ -47,8 +49,11 @@ A collection of awesome Jekyll editors
 
 - **Forestry.io** (web: [forestry.io](https://forestry.io)) -  a content management system (CMS) for Jekyll; pricing plans (11+ users $99/month; enterprise ask for quote)
 
-- **TinyPress** (web: [tinypress.co](https://tinypress.co)) by Dain Miller - a static site content mangement system (CMS) / admin using the GitHub API
+<!--  no longer in operation? tinypress.co domain no longer in use
+- **TinyPress** (web: [tinypress.co](http://tinypress.co)) by Dain Miller - a static site content mangement system (CMS) / admin using the GitHub API
+  -->
 
+- **Stastic** (web: [stastic.net](https://stastic.net) - a content management system (CMS) for Jekyll, currently in beta; pricing is free for early adopters
 
 
 ## "Classic" Editors Addons
@@ -67,11 +72,14 @@ A collection of awesome Jekyll editors
 
 - [**vim-jekyll**](https://github.com/parkr/vim-jekyll) -- a vim plugin to generate new posts and run `jekyll build` all without leaving vim.
 
+### Visual Studio Code
 
+- [**jekyll-snippets**](https://marketplace.visualstudio.com/items?itemName=ginfuru.vscode-jekyll-snippets) -- Jekyll snippets for Visual Studio Code.
+- [**jekyll-syntax-support**](https://marketplace.visualstudio.com/items?itemName=ginfuru.ginfuru-vscode-jekyll-syntax) -- Adds Jekyll _(better liquid + front-matter)_ syntax support for Visual Studio Code.
 
 ## Markdown Editors
 
-See [**Awesome Mardown Editors**](https://github.com/mundimark/awesome-markdown-editors) -- a collection of awesome markdown editors and (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
+See [**Awesome Markdown Editors**](https://github.com/mundimark/awesome-markdown-editors) -- a collection of awesome markdown editors and (pre)viewers for Linux, Apple OS X, Microsoft Windows, the World Wide Web and more.
 
 
 ## Meta
